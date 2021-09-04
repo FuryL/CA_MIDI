@@ -1,4 +1,6 @@
 # CA_MIDI
+[中文](https://github.com/FuryL/CA_MIDI/blob/main/README.md)      
+        
 Use the cellular automata of **Game of Life** to generate MIDI music files
 The .EXE file is in the dist folder
     
