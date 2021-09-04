@@ -1,10 +1,12 @@
 # CA_MIDI
 [中文](https://github.com/FuryL/CA_MIDI/blob/main/README.md)      
         
-Use the cellular automata of **Game of Life** to generate MIDI music files
-The .EXE file is in the dist folder
+Use the cellular automata of **Game of Life** to generate MIDI music files         
+                
+The .EXE file is in the dist folder     
     
 Mainly implemented using Pygame and Mido
+                
 The window consists of 64*64 small grids, white is "dead" and black is "live"
     
 This code only did the judge sentences of the acoustic grand piano which instrument number is 0 in MIDI
