@@ -1,7 +1,8 @@
 # CA_MIDI 
 [English](https://github.com/FuryL/CA_MIDI/blob/main/README_ENG.md)     
             
-使用**生命游戏规则**的元胞自动机生成MIDI音乐文件  
+使用**生命游戏规则**的元胞自动机生成MIDI音乐文件        
+                        
 打包后的EXE文件在dist文件夹中
     
 主要使用Pygame与Mido实现 
